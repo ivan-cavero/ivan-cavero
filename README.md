@@ -1,6 +1,8 @@
-## Hi I'm Iván Cavero <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
-I love learning to program and that's why I'm always working on creating projects for my profile. I love any area of programming from artificial intelligence, frontend, backend and I would love to learn everything. If I have to specialize in something it would be frontend.
+<h2>Hi I'm Iván Cavero <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" alt="hi"></h2>
+<img align='right' src="https://i.gifer.com/4Jnt.gif" width="230">
+<p><em>Full Developer <a href="#"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p><p>I love learning to program and that's why I'm always working on creating projects for my profile. I love any area of programming from artificial intelligence, frontend, backend and I would love to learn everything. If I have to specialize in something it would be frontend.
+</p>
 
 :mailbox: Reach me out!
 
@@ -33,8 +35,6 @@ I love learning to program and that's why I'm always working on creating project
 
 
 #### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nozus.nozus)
 
 ![](https://komarev.com/ghpvc/?username=nozus&style=flat-square)
 
