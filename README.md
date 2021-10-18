@@ -23,7 +23,7 @@
 [![HTML5 Badge](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26)](#) [![GIT Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=Git&logoColor=F05032)](#) 
 
 #### In progress (In order)
- [![.NET Badge](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&labelColor=black&logo=.NET&logoColor=512BD4)](#) [![CSharp Badge](https://img.shields.io/badge/-C%20Sharp-A100FF?style=for-the-badge&labelColor=black&logo=C-Sharp&logoColor=A100FF)](#) [![CSS3 Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=#1572B6)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=Python&logoColor=3776AB)](#)
+ [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [.NET Badge](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&labelColor=black&logo=.NET&logoColor=512BD4)](#) [![CSharp Badge](https://img.shields.io/badge/-C%20Sharp-A100FF?style=for-the-badge&labelColor=black&logo=C-Sharp&logoColor=A100FF)](#) [![CSS3 Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=#1572B6)](#) [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=Python&logoColor=3776AB)](#)
 
 #### Standing
  [![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=C%2B%2B&logoColor=00599C)](#)
