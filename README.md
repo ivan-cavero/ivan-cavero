@@ -6,7 +6,7 @@
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@NozusOW-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NozusOW)](https://twitter.com/NozusOW) [![Linkedin Badge](https://img.shields.io/badge/-IvánCavero-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivangonzalezcavero/) [![Mail Badge](https://img.shields.io/badge/-@ivancavero.g-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ivancavero.g/) [![Mail Badge](https://img.shields.io/badge/-ivangonzalezcavero-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ivangonzalezcavero@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@NozusOW-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NozusOW)](https://twitter.com/NozusOW) [![Mail Badge](https://img.shields.io/badge/-@ivancavero.g-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ivancavero.g/) [![Mail Badge](https://img.shields.io/badge/-ivangonzalezcavero-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ivangonzalezcavero@gmail.com)
 
 <!-- TODO: Add last video link -->
 
@@ -30,7 +30,6 @@
 <br />
 
 #### Bizness
-- :paperclip: [Resume/CV](https://github.com/ivan-cavero/ivan-cavero/blob/main/cv/EN%20-%20CV%20-%20Ivan%20Gonzalez%20Cavero.pdf)
 - :email: ivangonzalezcavero@gmail.com
 
 
