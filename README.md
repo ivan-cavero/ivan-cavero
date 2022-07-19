@@ -51,8 +51,7 @@ I like technology very much, and I am very self-taught to learn, everything I kn
 
 #### Coding Stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nozus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nozus)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Github Stats
 
