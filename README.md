@@ -10,8 +10,7 @@
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently looking for a job
-- :computer: Most used line of code 
+- 🔭 I’m currently work on Martico
 - 😄 Learning more everyday
 - 📫 How to reach me: ivangonzalezcavero@gmail.com
 - ⚡ Fact about me: I play games and go to the GYM very often.
